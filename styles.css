@@ -39,4 +39,49 @@ body{
     align-items: center;
     width: 100%;
     height: auto;
+    max-width: 300px;
 }
+/* For Mobile */
+@media only screen and (max-width: 600px) {
+    body{
+        background-color: rgb(155, 145, 62);
+        justify-content: center;
+    }
+    .left{
+        justify-content: center;
+        font-size: 40px;
+    }
+    .right{
+        background-color: orange;
+        border: 1px solid white
+    }
+    nav{
+        display: flex;
+        justify-content: space-around;
+    }
+    .right ul{
+        display: flex;
+        padding-left: 5px;
+        justify-content: center;
+    }
+    .right ul li{
+        list-style: none;
+        margin: 0 10px;
+        padding: 5px;
+        border: 1px solid white
+    }
+    .video-container video{
+        width: 100%;    
+        padding-top: 20px; 
+        padding-left: 80px;
+    }
+    .content-area{
+        text-align: center;
+        background-color: rgba(255, 255, 240, 0.25);
+        box-shadow: 20px 20px 20px #98FB98;
+        font-family: Georgia;
+        padding: 50px 10px;
+        margin: 10%;
+        margin-top: 50px;
+    }
+   }
