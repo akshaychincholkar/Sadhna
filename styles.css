@@ -42,7 +42,8 @@ body{
     max-width: 300px;
 }
 /* For Mobile */
-@media only screen and (max-width: 412px) {
+/* @media only screen and (max-width: 412px) { */
+@media (max-width: 412px) {
     body{
         background-color: rgb(155, 145, 62);
         justify-content: center;
