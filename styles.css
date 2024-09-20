@@ -76,6 +76,7 @@ body{
         width: 100%;    
         padding-top: 20px; 
         padding-left: 35px;
+        height: auto;
     }
     .content-area{
         text-align: center;
