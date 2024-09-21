@@ -39,7 +39,7 @@ body{
     align-items: center;
     width: 100%;
     height: auto;
-    max-width: 300px;
+    /* max-width: 300px; */
 }
 /* For Mobile */
 /* @media only screen and (max-width: 412px) { */
