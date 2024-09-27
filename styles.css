@@ -43,7 +43,8 @@ body{
 }
 /* For Mobile */
 /* @media only screen and (max-width: 412px) { */
-@media screen and (max-width: 600px) {
+  /* FIXME: Fix the mobile compatibility   */
+@media only screen and (max-width: 600px) {
     body{
         background-color: rgb(155, 145, 62);
         justify-content: center;
