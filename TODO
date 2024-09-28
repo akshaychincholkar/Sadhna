@@ -2,13 +2,21 @@
 Project:
   ✔  To Create the Sadhna Page for the Regular Sadhna!
     ✔ Create the basic template @done(24-09-27 19:52)
-  ☐ Decide the content of the website
+  Decide the content of the website:
     ☐ Add the Durga Saptashati text content @30m
     ☐ Add the Durga Saptashati audio @30m
-  ☐ Crete the standard website
-    ☐ Fix the issue of the mobile @high   
+  Crete the standard website:
+    ☐ Fix the issue of the mobile @high @1h
     ☐ Remove the redundancy of the code used for each module
-  ☐ Think about the future aspects
+  Coding standarization:
+    ☐ Modularize the code by creating the package structure
+  Think about the future aspects:
+    ☐ How javascript can be implemented 
+    ☐ Search and learn from the other websites who did it
+  Learning:
+    ☐ Javascripts:
+      ☐ Data types
+
 
 
 
@@ -29,8 +37,6 @@ Project:
 
 
 HELP:
-  [elapsed] 
-  [projects]
   ---------------------
   Box: - ❍ ❑ ■ ⬜ □ ☐ ▪ ▫ – — ≡ → › [] [ ]
   Done: ✔ ✓ ☑ + [x] [X] [+]
